@@ -49,5 +49,4 @@ This project is licensed under the **MIT License**. See LICENSE file for details
 ---
 
 ## Author
-**Shahd Hamed ** – Bioinformatics 
-ممكن تضبطلي البتاع ده بحيث يكون الخطوط اللي فيه والفواصل بروفشنال اكتر 
+**Shahd Hamed ** – Bioinformatics  
